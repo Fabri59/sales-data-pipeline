@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sales Data Pipeline
 **Sistema automatizado de procesamiento y análisis de ventas**
 
@@ -205,3 +206,7 @@ Completa solo después de publicar y verificar cada recurso:
 - Video de demostración (máximo 5 min): `[PEGAR URL PÚBLICA]`
 - Artículo individual Medium/Dev.to/Hashnode: `[PEGAR URL PUBLICADA]`
 - Ejecución exitosa de GitHub Actions: `[PEGAR URL DE LA EJECUCIÓN]`
+=======
+# sales-data-pipeline
+Sistema automatizado de procesamiento y análisis de ventas con Python y PostgreSQL.
+>>>>>>> 8bfae132f89d1eb6b7c11f89b7792c5a2a7efa7c
