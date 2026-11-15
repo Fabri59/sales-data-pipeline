@@ -1,7 +1,11 @@
 import os
+from pathlib import Path
 import pandas as pd
 import streamlit as st
 from sqlalchemy import create_engine, text
+from dotenv import load_dotenv
+
+load_dotenv(Path(__file__).resolve().parent / ".env")
 
 st.set_page_config(page_title="Sales Data Pipeline", page_icon="📊", layout="wide")
 st.title("📊 Sales Data Pipeline")
