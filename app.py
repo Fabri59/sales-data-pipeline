@@ -15,6 +15,11 @@ st.caption("Dashboard demostrativo de análisis comercial alimentado por Postgre
 def get_engine():
     url = os.getenv("DATABASE_URL", "").strip()
     if not url:
+        try:
+            url = str(st.secrets["DATABASE_URL"]).strip()
+        except (FileNotFoundError, KeyError):
+            url = ""
+    if not url:
         raise RuntimeError("Configura DATABASE_URL en los Secrets de Streamlit.")
     if url.startswith("postgres://"):
         url = url.replace("postgres://", "postgresql+psycopg2://", 1)
