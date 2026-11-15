@@ -1,0 +1,39 @@
+
+name: Sales Data Pipeline
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "data/**"
+      - "src/**"
+      - ".github/workflows/etl.yml"
+  schedule:
+    - cron: "0 6 * * *"
+
+jobs:
+  run-pipeline:
+    runs-on: ubuntu-latest
+    env:
+      PYTHONPATH: src
+
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Ejecutar pruebas
+        run: pytest -q
+
+      - name: Ejecutar pipeline
+        env:
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}
+        run: python -m sales_pipeline.main

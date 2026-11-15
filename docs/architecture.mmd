@@ -1,0 +1,8 @@
+flowchart LR
+    CSV[CSV de ventas] --> EX[Extract - Pandas]
+    EX --> TR[Transform - Pandas]
+    TR --> LO[Load - SQLAlchemy]
+    GH[GitHub Actions] -. automatiza .-> EX
+    LO --> PG[(PostgreSQL)]
+    PG --> ST[Streamlit]
+    ST --> DB[Dashboard interactivo]

@@ -1,0 +1,601 @@
+sale_id,sale_date,product,category,quantity,unit_price,discount_rate
+DEMO-00001,2025-04-25,Cargador USB-C,Accesorios,1,72.3,0.0
+DEMO-00002,2025-04-15,Teclado mecánico,Accesorios,2,191.29,0.0
+DEMO-00003,2026-03-09,Tablet Android,Computación,1,832.14,0.0
+DEMO-00004,2026-09-09,Memoria USB 64GB,Almacenamiento,1,36.17,0.15
+DEMO-00005,2026-07-13,Router Wi-Fi,Redes,1,228.13,0.0
+DEMO-00006,2025-06-13,Laptop Lenovo IdeaPad,Computación,2,2387.38,0.0
+DEMO-00007,2025-12-11,Monitor 24 pulgadas,Computación,1,765.01,0.0
+DEMO-00008,2026-09-11,Parlante portátil,Audio,1,143.68,0.05
+DEMO-00009,2025-05-08,Memoria USB 64GB,Almacenamiento,5,37.26,0.1
+DEMO-00010,2026-10-06,Audífonos Bluetooth,Audio,2,222.15,0.1
+DEMO-00011,2025-03-13,Monitor 24 pulgadas,Computación,1,746.04,0.0
+DEMO-00012,2025-08-27,Mouse inalámbrico,Accesorios,3,63.75,0.05
+DEMO-00013,2026-01-09,Cargador USB-C,Accesorios,1,73.26,0.15
+DEMO-00014,2026-10-26,Audífonos Bluetooth,Audio,1,214.54,0.1
+DEMO-00015,2025-09-08,Router Wi-Fi,Redes,1,225.56,0.15
+DEMO-00016,2026-07-25,Router Wi-Fi,Redes,1,223.53,0.0
+DEMO-00017,2025-02-02,Monitor 24 pulgadas,Computación,3,767.67,0.0
+DEMO-00018,2026-08-04,Monitor 24 pulgadas,Computación,3,756.87,0.15
+DEMO-00019,2026-02-10,Disco SSD 1TB,Almacenamiento,4,327.31,0.0
+DEMO-00020,2025-05-23,Audífonos Bluetooth,Audio,1,212.06,0.0
+DEMO-00021,2026-08-22,Router Wi-Fi,Redes,1,233.07,0.0
+DEMO-00022,2025-05-22,Monitor 24 pulgadas,Computación,2,728.95,0.0
+DEMO-00023,2025-06-06,Mouse inalámbrico,Accesorios,2,68.04,0.05
+DEMO-00024,2025-03-07,Tablet Android,Computación,1,903.65,0.05
+DEMO-00025,2025-09-15,Memoria USB 64GB,Almacenamiento,5,40.19,0.0
+DEMO-00026,2025-04-28,Cargador USB-C,Accesorios,2,75.44,0.0
+DEMO-00027,2025-12-15,Cargador USB-C,Accesorios,1,74.22,0.05
+DEMO-00028,2025-09-27,Laptop Lenovo IdeaPad,Computación,5,2552.69,0.1
+DEMO-00029,2026-10-03,Mouse inalámbrico,Accesorios,1,66.45,0.1
+DEMO-00030,2025-06-06,Monitor 24 pulgadas,Computación,1,737.76,0.1
+DEMO-00031,2026-09-06,Laptop Lenovo IdeaPad,Computación,1,2261.63,0.0
+DEMO-00032,2025-09-03,Audífonos Bluetooth,Audio,1,222.7,0.0
+DEMO-00033,2026-05-13,Mouse inalámbrico,Accesorios,3,69.97,0.1
+DEMO-00034,2025-05-12,Teclado mecánico,Accesorios,2,192.87,0.0
+DEMO-00035,2026-06-25,Audífonos Bluetooth,Audio,3,207.42,0.0
+DEMO-00036,2025-07-25,Memoria USB 64GB,Almacenamiento,2,37.39,0.15
+DEMO-00037,2026-01-18,Cargador USB-C,Accesorios,1,75.21,0.0
+DEMO-00038,2025-08-19,Monitor 24 pulgadas,Computación,1,720.23,0.1
+DEMO-00039,2026-08-26,Monitor 24 pulgadas,Computación,1,726.46,0.15
+DEMO-00040,2025-08-23,Laptop Lenovo IdeaPad,Computación,1,2266.31,0.0
+DEMO-00041,2026-06-11,Mouse inalámbrico,Accesorios,1,66.76,0.0
+DEMO-00042,2025-05-16,Memoria USB 64GB,Almacenamiento,2,40.32,0.1
+DEMO-00043,2025-09-06,Disco SSD 1TB,Almacenamiento,3,335.74,0.0
+DEMO-00044,2025-04-10,Mouse inalámbrico,Accesorios,2,63.48,0.05
+DEMO-00045,2025-02-25,Disco SSD 1TB,Almacenamiento,2,344.79,0.0
+DEMO-00046,2026-02-17,Laptop Lenovo IdeaPad,Computación,2,2567.83,0.0
+DEMO-00047,2025-07-16,Monitor 24 pulgadas,Computación,1,773.59,0.05
+DEMO-00048,2025-10-13,Teclado mecánico,Accesorios,2,190.79,0.0
+DEMO-00049,2026-07-18,Disco SSD 1TB,Almacenamiento,1,327.79,0.1
+DEMO-00050,2025-04-06,Laptop Lenovo IdeaPad,Computación,4,2586.69,0.0
+DEMO-00051,2026-05-13,Webcam HD,Accesorios,2,127.0,0.0
+DEMO-00052,2026-01-24,Teclado mecánico,Accesorios,1,176.84,0.05
+DEMO-00053,2026-03-10,Audífonos Bluetooth,Audio,2,217.74,0.1
+DEMO-00054,2026-05-14,Cargador USB-C,Accesorios,1,72.56,0.0
+DEMO-00055,2026-07-10,Tablet Android,Computación,1,863.46,0.0
+DEMO-00056,2026-05-04,Tablet Android,Computación,2,940.23,0.0
+DEMO-00057,2026-06-05,Laptop Lenovo IdeaPad,Computación,1,2326.84,0.1
+DEMO-00058,2025-08-29,Mouse inalámbrico,Accesorios,1,69.59,0.1
+DEMO-00059,2026-08-16,Monitor 24 pulgadas,Computación,2,794.9,0.05
+DEMO-00060,2026-08-21,Cargador USB-C,Accesorios,2,72.8,0.0
+DEMO-00061,2025-11-18,Monitor 24 pulgadas,Computación,1,766.99,0.15
+DEMO-00062,2025-11-04,Cargador USB-C,Accesorios,2,80.15,0.0
+DEMO-00063,2026-04-15,Laptop Lenovo IdeaPad,Computación,2,2474.69,0.0
+DEMO-00064,2026-07-05,Mouse inalámbrico,Accesorios,1,62.56,0.0
+DEMO-00065,2025-09-08,Mouse inalámbrico,Accesorios,1,61.44,0.1
+DEMO-00066,2025-11-06,Router Wi-Fi,Redes,2,247.93,0.15
+DEMO-00067,2025-01-09,Memoria USB 64GB,Almacenamiento,2,38.33,0.15
+DEMO-00068,2025-05-18,Mouse inalámbrico,Accesorios,1,69.05,0.15
+DEMO-00069,2025-06-09,Memoria USB 64GB,Almacenamiento,1,38.64,0.15
+DEMO-00070,2025-07-28,Parlante portátil,Audio,2,163.75,0.1
+DEMO-00071,2025-09-15,Disco SSD 1TB,Almacenamiento,4,337.72,0.0
+DEMO-00072,2026-03-10,Cargador USB-C,Accesorios,3,69.53,0.0
+DEMO-00073,2026-10-15,Teclado mecánico,Accesorios,5,170.25,0.05
+DEMO-00074,2026-03-14,Memoria USB 64GB,Almacenamiento,2,35.64,0.15
+DEMO-00075,2026-07-13,Teclado mecánico,Accesorios,1,176.23,0.1
+DEMO-00076,2026-03-17,Teclado mecánico,Accesorios,1,174.48,0.0
+DEMO-00077,2025-08-04,Parlante portátil,Audio,2,159.14,0.0
+DEMO-00078,2026-02-21,Memoria USB 64GB,Almacenamiento,5,39.52,0.0
+DEMO-00079,2025-07-01,Teclado mecánico,Accesorios,4,166.31,0.15
+DEMO-00080,2026-02-26,Parlante portátil,Audio,3,164.03,0.0
+DEMO-00081,2025-06-13,Audífonos Bluetooth,Audio,3,196.83,0.0
+DEMO-00082,2025-08-16,Disco SSD 1TB,Almacenamiento,1,341.42,0.0
+DEMO-00083,2025-08-22,Audífonos Bluetooth,Audio,1,215.38,0.05
+DEMO-00084,2025-10-13,Parlante portátil,Audio,3,166.58,0.0
+DEMO-00085,2026-10-19,Parlante portátil,Audio,2,159.45,0.1
+DEMO-00086,2025-01-29,Parlante portátil,Audio,1,166.67,0.0
+DEMO-00087,2025-09-29,Tablet Android,Computación,1,903.75,0.0
+DEMO-00088,2025-11-18,Router Wi-Fi,Redes,1,247.82,0.0
+DEMO-00089,2026-08-14,Webcam HD,Accesorios,1,111.25,0.05
+DEMO-00090,2026-06-17,Laptop Lenovo IdeaPad,Computación,4,2465.07,0.15
+DEMO-00091,2025-07-21,Router Wi-Fi,Redes,1,214.18,0.15
+DEMO-00092,2026-10-01,Parlante portátil,Audio,1,163.63,0.15
+DEMO-00093,2026-06-04,Audífonos Bluetooth,Audio,1,206.92,0.05
+DEMO-00094,2025-10-30,Router Wi-Fi,Redes,2,218.66,0.15
+DEMO-00095,2025-06-28,Webcam HD,Accesorios,2,116.18,0.1
+DEMO-00096,2025-11-08,Laptop Lenovo IdeaPad,Computación,1,2422.52,0.1
+DEMO-00097,2026-11-02,Tablet Android,Computación,1,881.71,0.15
+DEMO-00098,2026-06-08,Monitor 24 pulgadas,Computación,2,830.07,0.15
+DEMO-00099,2026-11-06,Teclado mecánico,Accesorios,1,180.45,0.15
+DEMO-00100,2025-12-10,Tablet Android,Computación,1,954.36,0.0
+DEMO-00101,2025-11-14,Cargador USB-C,Accesorios,1,71.39,0.0
+DEMO-00102,2025-09-08,Laptop Lenovo IdeaPad,Computación,5,2493.62,0.0
+DEMO-00103,2026-03-01,Disco SSD 1TB,Almacenamiento,4,323.87,0.15
+DEMO-00104,2026-01-29,Router Wi-Fi,Redes,2,220.58,0.15
+DEMO-00105,2025-01-06,Router Wi-Fi,Redes,4,243.26,0.0
+DEMO-00106,2025-08-13,Webcam HD,Accesorios,1,128.79,0.1
+DEMO-00107,2025-02-21,Disco SSD 1TB,Almacenamiento,2,341.37,0.0
+DEMO-00108,2025-05-17,Disco SSD 1TB,Almacenamiento,3,328.58,0.1
+DEMO-00109,2025-11-21,Tablet Android,Computación,4,945.74,0.1
+DEMO-00110,2026-06-01,Router Wi-Fi,Redes,1,244.97,0.05
+DEMO-00111,2026-05-02,Teclado mecánico,Accesorios,2,187.25,0.15
+DEMO-00112,2026-06-18,Audífonos Bluetooth,Audio,2,201.24,0.05
+DEMO-00113,2025-10-20,Mouse inalámbrico,Accesorios,1,63.29,0.1
+DEMO-00114,2025-05-22,Mouse inalámbrico,Accesorios,1,63.78,0.0
+DEMO-00115,2025-08-08,Router Wi-Fi,Redes,1,226.6,0.1
+DEMO-00116,2026-03-02,Disco SSD 1TB,Almacenamiento,1,337.04,0.05
+DEMO-00117,2025-01-21,Tablet Android,Computación,3,927.82,0.05
+DEMO-00118,2025-01-07,Disco SSD 1TB,Almacenamiento,4,309.69,0.05
+DEMO-00119,2026-07-06,Webcam HD,Accesorios,3,120.89,0.1
+DEMO-00120,2026-05-15,Monitor 24 pulgadas,Computación,1,771.99,0.0
+DEMO-00121,2025-12-11,Webcam HD,Accesorios,2,125.72,0.15
+DEMO-00122,2026-04-24,Teclado mecánico,Accesorios,4,193.84,0.1
+DEMO-00123,2026-02-08,Laptop Lenovo IdeaPad,Computación,2,2513.9,0.0
+DEMO-00124,2026-03-15,Cargador USB-C,Accesorios,1,74.54,0.0
+DEMO-00125,2026-01-24,Audífonos Bluetooth,Audio,1,208.48,0.0
+DEMO-00126,2025-10-12,Webcam HD,Accesorios,3,126.37,0.0
+DEMO-00127,2026-04-27,Mouse inalámbrico,Accesorios,1,65.41,0.0
+DEMO-00128,2026-10-28,Monitor 24 pulgadas,Computación,1,837.07,0.0
+DEMO-00129,2025-09-11,Laptop Lenovo IdeaPad,Computación,1,2261.99,0.0
+DEMO-00130,2025-05-10,Monitor 24 pulgadas,Computación,2,731.88,0.0
+DEMO-00131,2025-09-20,Disco SSD 1TB,Almacenamiento,3,302.99,0.1
+DEMO-00132,2025-04-28,Router Wi-Fi,Redes,3,217.63,0.0
+DEMO-00133,2026-08-16,Mouse inalámbrico,Accesorios,1,63.04,0.15
+DEMO-00134,2026-02-11,Webcam HD,Accesorios,4,114.21,0.1
+DEMO-00135,2026-10-05,Router Wi-Fi,Redes,1,237.26,0.0
+DEMO-00136,2026-09-07,Cargador USB-C,Accesorios,3,78.55,0.1
+DEMO-00137,2025-12-22,Laptop Lenovo IdeaPad,Computación,2,2513.32,0.0
+DEMO-00138,2026-10-26,Memoria USB 64GB,Almacenamiento,1,40.13,0.05
+DEMO-00139,2026-03-20,Mouse inalámbrico,Accesorios,5,66.41,0.05
+DEMO-00140,2025-06-06,Router Wi-Fi,Redes,1,238.6,0.15
+DEMO-00141,2026-09-23,Audífonos Bluetooth,Audio,3,211.28,0.05
+DEMO-00142,2026-03-23,Disco SSD 1TB,Almacenamiento,3,324.73,0.0
+DEMO-00143,2025-03-30,Monitor 24 pulgadas,Computación,1,773.86,0.05
+DEMO-00144,2026-09-17,Tablet Android,Computación,2,866.7,0.05
+DEMO-00145,2025-07-06,Parlante portátil,Audio,2,151.4,0.0
+DEMO-00146,2025-10-14,Parlante portátil,Audio,4,159.99,0.0
+DEMO-00147,2025-01-11,Memoria USB 64GB,Almacenamiento,2,36.12,0.0
+DEMO-00148,2026-02-21,Router Wi-Fi,Redes,2,239.5,0.15
+DEMO-00149,2026-10-24,Disco SSD 1TB,Almacenamiento,2,317.35,0.0
+DEMO-00150,2025-10-29,Mouse inalámbrico,Accesorios,1,66.99,0.0
+DEMO-00151,2026-08-19,Cargador USB-C,Accesorios,1,75.64,0.0
+DEMO-00152,2026-07-18,Webcam HD,Accesorios,1,123.89,0.0
+DEMO-00153,2025-09-15,Audífonos Bluetooth,Audio,1,217.44,0.0
+DEMO-00154,2026-07-03,Mouse inalámbrico,Accesorios,4,66.98,0.0
+DEMO-00155,2026-05-11,Monitor 24 pulgadas,Computación,1,791.18,0.1
+DEMO-00156,2025-10-17,Tablet Android,Computación,5,937.37,0.0
+DEMO-00157,2026-01-05,Monitor 24 pulgadas,Computación,1,719.37,0.1
+DEMO-00158,2025-10-08,Teclado mecánico,Accesorios,1,167.17,0.0
+DEMO-00159,2025-05-10,Router Wi-Fi,Redes,2,239.3,0.0
+DEMO-00160,2026-08-11,Laptop Lenovo IdeaPad,Computación,1,2441.66,0.0
+DEMO-00161,2025-02-22,Teclado mecánico,Accesorios,1,190.42,0.0
+DEMO-00162,2026-02-15,Mouse inalámbrico,Accesorios,2,65.8,0.15
+DEMO-00163,2025-06-05,Laptop Lenovo IdeaPad,Computación,1,2474.63,0.0
+DEMO-00164,2025-09-12,Mouse inalámbrico,Accesorios,1,67.75,0.1
+DEMO-00165,2026-09-26,Tablet Android,Computación,1,893.21,0.05
+DEMO-00166,2025-11-01,Disco SSD 1TB,Almacenamiento,3,345.09,0.0
+DEMO-00167,2026-09-28,Tablet Android,Computación,1,955.52,0.0
+DEMO-00168,2026-10-03,Monitor 24 pulgadas,Computación,1,800.02,0.0
+DEMO-00169,2025-06-27,Monitor 24 pulgadas,Computación,2,737.14,0.05
+DEMO-00170,2026-09-01,Disco SSD 1TB,Almacenamiento,2,296.07,0.0
+DEMO-00171,2025-10-17,Router Wi-Fi,Redes,2,228.31,0.15
+DEMO-00172,2025-09-28,Monitor 24 pulgadas,Computación,3,795.61,0.15
+DEMO-00173,2026-03-12,Monitor 24 pulgadas,Computación,1,745.66,0.0
+DEMO-00174,2025-05-26,Audífonos Bluetooth,Audio,1,198.78,0.0
+DEMO-00175,2026-08-06,Tablet Android,Computación,4,881.34,0.05
+DEMO-00176,2025-11-08,Router Wi-Fi,Redes,2,246.29,0.1
+DEMO-00177,2026-05-21,Memoria USB 64GB,Almacenamiento,1,38.6,0.05
+DEMO-00178,2025-11-27,Router Wi-Fi,Redes,2,212.55,0.0
+DEMO-00179,2026-08-13,Cargador USB-C,Accesorios,2,69.25,0.15
+DEMO-00180,2026-08-14,Audífonos Bluetooth,Audio,1,218.61,0.05
+DEMO-00181,2026-10-30,Memoria USB 64GB,Almacenamiento,1,36.65,0.1
+DEMO-00182,2026-10-13,Webcam HD,Accesorios,3,129.01,0.05
+DEMO-00183,2026-02-23,Parlante portátil,Audio,1,159.22,0.0
+DEMO-00184,2026-02-26,Parlante portátil,Audio,2,149.75,0.05
+DEMO-00185,2025-02-07,Memoria USB 64GB,Almacenamiento,2,36.87,0.0
+DEMO-00186,2026-02-18,Mouse inalámbrico,Accesorios,3,68.38,0.0
+DEMO-00187,2026-07-10,Cargador USB-C,Accesorios,2,69.65,0.1
+DEMO-00188,2026-09-30,Parlante portátil,Audio,3,158.11,0.0
+DEMO-00189,2025-10-01,Monitor 24 pulgadas,Computación,2,833.37,0.05
+DEMO-00190,2026-05-12,Router Wi-Fi,Redes,1,247.41,0.1
+DEMO-00191,2025-06-12,Monitor 24 pulgadas,Computación,1,719.31,0.05
+DEMO-00192,2025-08-19,Mouse inalámbrico,Accesorios,5,69.29,0.05
+DEMO-00193,2026-10-26,Mouse inalámbrico,Accesorios,3,64.98,0.15
+DEMO-00194,2026-06-06,Audífonos Bluetooth,Audio,2,207.16,0.05
+DEMO-00195,2025-09-07,Disco SSD 1TB,Almacenamiento,2,301.81,0.0
+DEMO-00196,2026-06-05,Tablet Android,Computación,3,838.24,0.0
+DEMO-00197,2026-03-01,Audífonos Bluetooth,Audio,1,219.67,0.0
+DEMO-00198,2025-10-17,Laptop Lenovo IdeaPad,Computación,2,2582.29,0.1
+DEMO-00199,2026-05-17,Cargador USB-C,Accesorios,3,74.36,0.05
+DEMO-00200,2025-12-07,Parlante portátil,Audio,2,156.08,0.05
+DEMO-00201,2025-07-13,Parlante portátil,Audio,5,148.52,0.05
+DEMO-00202,2026-02-25,Monitor 24 pulgadas,Computación,1,810.54,0.15
+DEMO-00203,2026-01-31,Webcam HD,Accesorios,5,125.61,0.15
+DEMO-00204,2026-05-23,Teclado mecánico,Accesorios,5,169.24,0.1
+DEMO-00205,2025-04-13,Parlante portátil,Audio,3,153.52,0.1
+DEMO-00206,2025-01-16,Disco SSD 1TB,Almacenamiento,2,315.39,0.15
+DEMO-00207,2025-03-18,Teclado mecánico,Accesorios,2,193.51,0.0
+DEMO-00208,2026-02-12,Tablet Android,Computación,2,940.09,0.15
+DEMO-00209,2026-01-25,Memoria USB 64GB,Almacenamiento,4,38.77,0.05
+DEMO-00210,2025-02-06,Memoria USB 64GB,Almacenamiento,2,36.39,0.15
+DEMO-00211,2025-08-21,Audífonos Bluetooth,Audio,3,207.78,0.0
+DEMO-00212,2025-04-13,Cargador USB-C,Accesorios,1,77.33,0.0
+DEMO-00213,2025-11-29,Laptop Lenovo IdeaPad,Computación,3,2369.0,0.0
+DEMO-00214,2025-05-30,Webcam HD,Accesorios,1,118.31,0.15
+DEMO-00215,2025-06-24,Teclado mecánico,Accesorios,1,183.15,0.05
+DEMO-00216,2025-09-04,Tablet Android,Computación,2,901.84,0.0
+DEMO-00217,2026-10-16,Disco SSD 1TB,Almacenamiento,1,307.47,0.0
+DEMO-00218,2025-10-22,Disco SSD 1TB,Almacenamiento,2,302.49,0.05
+DEMO-00219,2026-08-25,Parlante portátil,Audio,1,166.46,0.15
+DEMO-00220,2026-04-13,Audífonos Bluetooth,Audio,3,199.89,0.05
+DEMO-00221,2025-04-20,Disco SSD 1TB,Almacenamiento,1,323.68,0.1
+DEMO-00222,2025-10-30,Audífonos Bluetooth,Audio,1,221.09,0.05
+DEMO-00223,2025-01-09,Audífonos Bluetooth,Audio,2,216.24,0.15
+DEMO-00224,2026-09-13,Laptop Lenovo IdeaPad,Computación,3,2580.47,0.0
+DEMO-00225,2026-09-14,Monitor 24 pulgadas,Computación,3,744.93,0.0
+DEMO-00226,2025-09-14,Tablet Android,Computación,2,921.46,0.15
+DEMO-00227,2025-05-21,Cargador USB-C,Accesorios,2,79.84,0.15
+DEMO-00228,2025-11-13,Laptop Lenovo IdeaPad,Computación,3,2267.08,0.0
+DEMO-00229,2025-05-15,Router Wi-Fi,Redes,1,222.46,0.15
+DEMO-00230,2025-06-29,Webcam HD,Accesorios,1,125.5,0.0
+DEMO-00231,2026-05-29,Memoria USB 64GB,Almacenamiento,4,40.01,0.0
+DEMO-00232,2025-10-30,Disco SSD 1TB,Almacenamiento,3,311.74,0.0
+DEMO-00233,2025-03-19,Disco SSD 1TB,Almacenamiento,1,343.88,0.15
+DEMO-00234,2026-02-11,Router Wi-Fi,Redes,5,241.21,0.0
+DEMO-00235,2026-02-09,Mouse inalámbrico,Accesorios,1,65.38,0.05
+DEMO-00236,2025-09-26,Parlante portátil,Audio,2,163.0,0.0
+DEMO-00237,2025-08-28,Mouse inalámbrico,Accesorios,2,66.24,0.1
+DEMO-00238,2026-09-17,Parlante portátil,Audio,1,144.17,0.05
+DEMO-00239,2025-11-06,Router Wi-Fi,Redes,2,215.89,0.0
+DEMO-00240,2025-11-08,Laptop Lenovo IdeaPad,Computación,5,2299.52,0.0
+DEMO-00241,2025-05-19,Memoria USB 64GB,Almacenamiento,1,37.22,0.15
+DEMO-00242,2026-07-08,Router Wi-Fi,Redes,1,238.92,0.0
+DEMO-00243,2026-11-02,Webcam HD,Accesorios,1,119.8,0.05
+DEMO-00244,2025-02-03,Audífonos Bluetooth,Audio,2,200.5,0.05
+DEMO-00245,2026-01-07,Monitor 24 pulgadas,Computación,1,803.17,0.1
+DEMO-00246,2026-01-03,Cargador USB-C,Accesorios,1,72.31,0.0
+DEMO-00247,2025-04-04,Disco SSD 1TB,Almacenamiento,2,327.26,0.1
+DEMO-00248,2025-02-21,Laptop Lenovo IdeaPad,Computación,3,2349.48,0.0
+DEMO-00249,2025-07-30,Tablet Android,Computación,1,927.76,0.0
+DEMO-00250,2025-08-10,Tablet Android,Computación,3,851.98,0.0
+DEMO-00251,2025-01-03,Tablet Android,Computación,1,958.93,0.0
+DEMO-00252,2025-09-14,Memoria USB 64GB,Almacenamiento,3,35.63,0.0
+DEMO-00253,2025-01-16,Teclado mecánico,Accesorios,1,188.31,0.1
+DEMO-00254,2025-01-17,Parlante portátil,Audio,1,143.9,0.15
+DEMO-00255,2026-06-23,Webcam HD,Accesorios,1,111.62,0.05
+DEMO-00256,2026-06-10,Parlante portátil,Audio,2,153.81,0.0
+DEMO-00257,2025-02-14,Tablet Android,Computación,2,948.21,0.15
+DEMO-00258,2025-11-05,Memoria USB 64GB,Almacenamiento,2,40.82,0.0
+DEMO-00259,2026-02-16,Disco SSD 1TB,Almacenamiento,1,299.93,0.15
+DEMO-00260,2025-03-17,Disco SSD 1TB,Almacenamiento,4,310.89,0.0
+DEMO-00261,2025-05-10,Mouse inalámbrico,Accesorios,1,66.38,0.1
+DEMO-00262,2025-11-29,Router Wi-Fi,Redes,1,233.58,0.0
+DEMO-00263,2026-06-02,Disco SSD 1TB,Almacenamiento,2,299.48,0.15
+DEMO-00264,2026-11-02,Mouse inalámbrico,Accesorios,2,67.8,0.15
+DEMO-00265,2026-03-17,Monitor 24 pulgadas,Computación,2,746.12,0.0
+DEMO-00266,2026-02-13,Disco SSD 1TB,Almacenamiento,1,299.27,0.05
+DEMO-00267,2025-09-19,Parlante portátil,Audio,1,146.39,0.05
+DEMO-00268,2025-04-04,Mouse inalámbrico,Accesorios,3,60.77,0.0
+DEMO-00269,2026-01-17,Router Wi-Fi,Redes,3,232.07,0.1
+DEMO-00270,2026-07-30,Memoria USB 64GB,Almacenamiento,1,35.7,0.0
+DEMO-00271,2026-03-10,Cargador USB-C,Accesorios,3,77.65,0.0
+DEMO-00272,2025-11-16,Tablet Android,Computación,1,901.1,0.0
+DEMO-00273,2026-11-04,Teclado mecánico,Accesorios,2,190.0,0.0
+DEMO-00274,2026-01-12,Memoria USB 64GB,Almacenamiento,1,36.65,0.0
+DEMO-00275,2026-07-29,Webcam HD,Accesorios,5,126.11,0.1
+DEMO-00276,2026-10-21,Cargador USB-C,Accesorios,2,76.31,0.15
+DEMO-00277,2025-10-01,Router Wi-Fi,Redes,1,221.66,0.0
+DEMO-00278,2025-12-26,Parlante portátil,Audio,1,164.17,0.1
+DEMO-00279,2026-02-15,Cargador USB-C,Accesorios,1,77.89,0.0
+DEMO-00280,2026-06-28,Mouse inalámbrico,Accesorios,1,64.17,0.0
+DEMO-00281,2026-01-14,Teclado mecánico,Accesorios,1,174.94,0.1
+DEMO-00282,2025-03-28,Tablet Android,Computación,4,840.95,0.1
+DEMO-00283,2025-03-25,Laptop Lenovo IdeaPad,Computación,1,2513.48,0.05
+DEMO-00284,2026-03-29,Tablet Android,Computación,1,849.5,0.1
+DEMO-00285,2025-12-20,Mouse inalámbrico,Accesorios,1,62.75,0.15
+DEMO-00286,2026-05-14,Tablet Android,Computación,2,862.72,0.0
+DEMO-00287,2026-09-06,Webcam HD,Accesorios,1,114.32,0.0
+DEMO-00288,2025-09-19,Teclado mecánico,Accesorios,1,169.06,0.05
+DEMO-00289,2026-03-17,Router Wi-Fi,Redes,1,225.59,0.15
+DEMO-00290,2026-05-28,Monitor 24 pulgadas,Computación,2,800.97,0.0
+DEMO-00291,2026-02-11,Mouse inalámbrico,Accesorios,3,60.24,0.0
+DEMO-00292,2025-03-21,Disco SSD 1TB,Almacenamiento,3,323.88,0.1
+DEMO-00293,2026-10-18,Webcam HD,Accesorios,1,112.61,0.0
+DEMO-00294,2025-06-25,Parlante portátil,Audio,3,157.93,0.15
+DEMO-00295,2025-04-01,Parlante portátil,Audio,1,145.23,0.05
+DEMO-00296,2026-02-15,Tablet Android,Computación,2,875.16,0.0
+DEMO-00297,2025-12-14,Router Wi-Fi,Redes,1,240.27,0.0
+DEMO-00298,2026-10-11,Memoria USB 64GB,Almacenamiento,1,38.06,0.0
+DEMO-00299,2026-10-23,Parlante portátil,Audio,3,148.46,0.0
+DEMO-00300,2025-07-22,Audífonos Bluetooth,Audio,1,198.34,0.15
+DEMO-00301,2025-07-01,Mouse inalámbrico,Accesorios,4,66.33,0.05
+DEMO-00302,2026-08-17,Tablet Android,Computación,1,950.4,0.1
+DEMO-00303,2026-10-13,Cargador USB-C,Accesorios,5,72.88,0.15
+DEMO-00304,2025-06-04,Parlante portátil,Audio,1,154.23,0.15
+DEMO-00305,2025-10-09,Audífonos Bluetooth,Audio,2,205.03,0.0
+DEMO-00306,2026-04-18,Audífonos Bluetooth,Audio,2,195.11,0.0
+DEMO-00307,2026-10-23,Mouse inalámbrico,Accesorios,3,68.7,0.1
+DEMO-00308,2026-06-04,Tablet Android,Computación,1,901.44,0.15
+DEMO-00309,2026-04-06,Laptop Lenovo IdeaPad,Computación,4,2478.09,0.0
+DEMO-00310,2026-09-12,Parlante portátil,Audio,2,146.34,0.0
+DEMO-00311,2025-04-16,Disco SSD 1TB,Almacenamiento,3,337.27,0.15
+DEMO-00312,2026-06-01,Mouse inalámbrico,Accesorios,2,60.21,0.15
+DEMO-00313,2026-03-26,Disco SSD 1TB,Almacenamiento,2,325.62,0.0
+DEMO-00314,2025-10-17,Parlante portátil,Audio,1,161.81,0.15
+DEMO-00315,2025-02-23,Tablet Android,Computación,3,910.98,0.0
+DEMO-00316,2025-04-07,Parlante portátil,Audio,2,152.19,0.0
+DEMO-00317,2026-11-04,Router Wi-Fi,Redes,5,233.78,0.0
+DEMO-00318,2025-03-25,Parlante portátil,Audio,2,146.11,0.0
+DEMO-00319,2026-11-03,Audífonos Bluetooth,Audio,2,206.37,0.1
+DEMO-00320,2025-03-28,Router Wi-Fi,Redes,1,225.46,0.0
+DEMO-00321,2026-06-24,Teclado mecánico,Accesorios,1,184.91,0.1
+DEMO-00322,2025-01-19,Parlante portátil,Audio,1,147.07,0.0
+DEMO-00323,2026-05-13,Parlante portátil,Audio,1,167.4,0.0
+DEMO-00324,2025-10-30,Mouse inalámbrico,Accesorios,3,60.85,0.1
+DEMO-00325,2026-06-24,Router Wi-Fi,Redes,1,223.99,0.1
+DEMO-00326,2026-09-04,Teclado mecánico,Accesorios,1,170.27,0.15
+DEMO-00327,2025-06-19,Tablet Android,Computación,2,825.02,0.0
+DEMO-00328,2025-09-01,Cargador USB-C,Accesorios,5,76.33,0.15
+DEMO-00329,2025-08-28,Disco SSD 1TB,Almacenamiento,2,310.24,0.05
+DEMO-00330,2026-01-12,Monitor 24 pulgadas,Computación,2,788.79,0.05
+DEMO-00331,2025-10-16,Disco SSD 1TB,Almacenamiento,3,320.15,0.05
+DEMO-00332,2025-07-24,Teclado mecánico,Accesorios,3,169.59,0.0
+DEMO-00333,2026-10-19,Laptop Lenovo IdeaPad,Computación,2,2399.52,0.0
+DEMO-00334,2026-06-13,Router Wi-Fi,Redes,3,222.09,0.0
+DEMO-00335,2026-04-06,Audífonos Bluetooth,Audio,4,198.15,0.05
+DEMO-00336,2025-08-16,Mouse inalámbrico,Accesorios,3,69.0,0.0
+DEMO-00337,2025-02-24,Webcam HD,Accesorios,1,117.58,0.05
+DEMO-00338,2026-01-19,Mouse inalámbrico,Accesorios,1,63.11,0.0
+DEMO-00339,2026-10-28,Router Wi-Fi,Redes,1,216.97,0.0
+DEMO-00340,2026-04-29,Audífonos Bluetooth,Audio,2,197.86,0.15
+DEMO-00341,2026-04-05,Disco SSD 1TB,Almacenamiento,2,340.78,0.0
+DEMO-00342,2025-08-09,Audífonos Bluetooth,Audio,3,211.64,0.15
+DEMO-00343,2026-06-25,Tablet Android,Computación,1,929.33,0.0
+DEMO-00344,2025-05-05,Audífonos Bluetooth,Audio,1,207.31,0.1
+DEMO-00345,2025-03-06,Disco SSD 1TB,Almacenamiento,1,340.74,0.1
+DEMO-00346,2025-01-17,Memoria USB 64GB,Almacenamiento,2,38.46,0.15
+DEMO-00347,2025-10-26,Teclado mecánico,Accesorios,1,183.31,0.0
+DEMO-00348,2026-03-03,Tablet Android,Computación,1,913.95,0.1
+DEMO-00349,2025-03-11,Parlante portátil,Audio,4,156.09,0.1
+DEMO-00350,2025-01-21,Memoria USB 64GB,Almacenamiento,1,37.82,0.15
+DEMO-00351,2026-01-18,Webcam HD,Accesorios,1,110.71,0.0
+DEMO-00352,2025-09-04,Parlante portátil,Audio,3,158.18,0.1
+DEMO-00353,2025-12-07,Router Wi-Fi,Redes,1,224.56,0.0
+DEMO-00354,2025-06-29,Cargador USB-C,Accesorios,3,77.22,0.15
+DEMO-00355,2026-10-09,Disco SSD 1TB,Almacenamiento,1,301.3,0.15
+DEMO-00356,2025-02-07,Disco SSD 1TB,Almacenamiento,1,296.64,0.0
+DEMO-00357,2025-11-20,Laptop Lenovo IdeaPad,Computación,4,2456.03,0.1
+DEMO-00358,2025-09-17,Disco SSD 1TB,Almacenamiento,1,327.52,0.0
+DEMO-00359,2025-02-18,Parlante portátil,Audio,3,150.83,0.0
+DEMO-00360,2026-03-24,Parlante portátil,Audio,4,161.03,0.05
+DEMO-00361,2025-07-11,Parlante portátil,Audio,2,154.94,0.1
+DEMO-00362,2025-03-26,Audífonos Bluetooth,Audio,2,195.85,0.1
+DEMO-00363,2026-07-13,Teclado mecánico,Accesorios,1,168.55,0.0
+DEMO-00364,2025-10-30,Cargador USB-C,Accesorios,1,76.23,0.05
+DEMO-00365,2026-03-31,Teclado mecánico,Accesorios,1,166.82,0.0
+DEMO-00366,2026-03-22,Tablet Android,Computación,1,958.36,0.0
+DEMO-00367,2026-10-15,Mouse inalámbrico,Accesorios,1,65.14,0.15
+DEMO-00368,2025-06-13,Cargador USB-C,Accesorios,4,70.71,0.1
+DEMO-00369,2026-03-25,Cargador USB-C,Accesorios,1,69.81,0.15
+DEMO-00370,2026-01-06,Parlante portátil,Audio,1,156.67,0.1
+DEMO-00371,2026-04-06,Teclado mecánico,Accesorios,4,176.31,0.0
+DEMO-00372,2025-05-21,Tablet Android,Computación,2,875.48,0.15
+DEMO-00373,2025-09-13,Audífonos Bluetooth,Audio,5,194.07,0.0
+DEMO-00374,2026-06-15,Disco SSD 1TB,Almacenamiento,1,323.16,0.0
+DEMO-00375,2026-04-02,Audífonos Bluetooth,Audio,1,213.76,0.15
+DEMO-00376,2025-07-24,Disco SSD 1TB,Almacenamiento,1,338.06,0.05
+DEMO-00377,2026-04-01,Teclado mecánico,Accesorios,5,188.94,0.0
+DEMO-00378,2025-12-22,Cargador USB-C,Accesorios,2,75.6,0.0
+DEMO-00379,2025-06-11,Audífonos Bluetooth,Audio,2,224.36,0.15
+DEMO-00380,2026-01-06,Teclado mecánico,Accesorios,2,169.1,0.0
+DEMO-00381,2025-08-31,Teclado mecánico,Accesorios,3,166.36,0.1
+DEMO-00382,2026-01-13,Tablet Android,Computación,2,958.78,0.0
+DEMO-00383,2025-03-30,Tablet Android,Computación,1,875.5,0.15
+DEMO-00384,2026-05-06,Router Wi-Fi,Redes,2,239.91,0.1
+DEMO-00385,2025-05-09,Mouse inalámbrico,Accesorios,5,66.48,0.05
+DEMO-00386,2026-06-14,Disco SSD 1TB,Almacenamiento,1,339.35,0.1
+DEMO-00387,2026-08-25,Cargador USB-C,Accesorios,1,80.6,0.05
+DEMO-00388,2025-02-26,Memoria USB 64GB,Almacenamiento,3,38.11,0.0
+DEMO-00389,2025-06-15,Teclado mecánico,Accesorios,1,186.03,0.0
+DEMO-00390,2025-10-18,Memoria USB 64GB,Almacenamiento,3,36.48,0.15
+DEMO-00391,2025-10-09,Memoria USB 64GB,Almacenamiento,1,36.8,0.1
+DEMO-00392,2026-05-30,Mouse inalámbrico,Accesorios,2,65.95,0.1
+DEMO-00393,2025-06-25,Teclado mecánico,Accesorios,2,186.35,0.1
+DEMO-00394,2026-08-01,Parlante portátil,Audio,1,164.02,0.0
+DEMO-00395,2026-10-19,Laptop Lenovo IdeaPad,Computación,3,2357.75,0.0
+DEMO-00396,2026-03-03,Tablet Android,Computación,2,823.11,0.15
+DEMO-00397,2025-10-24,Memoria USB 64GB,Almacenamiento,2,36.8,0.0
+DEMO-00398,2026-02-20,Cargador USB-C,Accesorios,1,69.88,0.0
+DEMO-00399,2026-03-27,Teclado mecánico,Accesorios,1,178.98,0.0
+DEMO-00400,2025-05-28,Tablet Android,Computación,1,921.09,0.15
+DEMO-00401,2026-02-13,Parlante portátil,Audio,1,151.79,0.1
+DEMO-00402,2025-11-23,Mouse inalámbrico,Accesorios,1,61.07,0.05
+DEMO-00403,2025-05-25,Monitor 24 pulgadas,Computación,1,753.82,0.05
+DEMO-00404,2026-03-05,Tablet Android,Computación,1,942.02,0.0
+DEMO-00405,2026-08-15,Parlante portátil,Audio,2,147.31,0.0
+DEMO-00406,2026-06-12,Disco SSD 1TB,Almacenamiento,2,339.41,0.05
+DEMO-00407,2025-04-03,Laptop Lenovo IdeaPad,Computación,4,2452.13,0.0
+DEMO-00408,2026-08-21,Monitor 24 pulgadas,Computación,1,723.91,0.05
+DEMO-00409,2026-11-01,Tablet Android,Computación,2,859.49,0.0
+DEMO-00410,2026-03-18,Mouse inalámbrico,Accesorios,1,62.55,0.0
+DEMO-00411,2026-01-10,Webcam HD,Accesorios,1,111.38,0.1
+DEMO-00412,2026-01-07,Monitor 24 pulgadas,Computación,2,726.78,0.1
+DEMO-00413,2026-07-18,Disco SSD 1TB,Almacenamiento,1,345.04,0.15
+DEMO-00414,2025-05-02,Tablet Android,Computación,1,832.57,0.0
+DEMO-00415,2026-07-26,Parlante portátil,Audio,4,161.32,0.0
+DEMO-00416,2026-06-06,Tablet Android,Computación,1,824.53,0.0
+DEMO-00417,2025-12-08,Teclado mecánico,Accesorios,3,180.56,0.0
+DEMO-00418,2026-06-12,Tablet Android,Computación,1,951.43,0.0
+DEMO-00419,2026-02-07,Teclado mecánico,Accesorios,5,186.89,0.0
+DEMO-00420,2025-12-11,Tablet Android,Computación,2,891.38,0.05
+DEMO-00421,2026-07-31,Router Wi-Fi,Redes,1,241.62,0.0
+DEMO-00422,2025-04-23,Parlante portátil,Audio,5,157.08,0.15
+DEMO-00423,2026-10-07,Router Wi-Fi,Redes,1,229.06,0.15
+DEMO-00424,2026-08-15,Tablet Android,Computación,1,826.11,0.05
+DEMO-00425,2026-06-21,Teclado mecánico,Accesorios,2,183.45,0.05
+DEMO-00426,2025-09-06,Teclado mecánico,Accesorios,1,192.91,0.0
+DEMO-00427,2025-01-20,Monitor 24 pulgadas,Computación,1,769.86,0.05
+DEMO-00428,2025-07-28,Router Wi-Fi,Redes,1,240.12,0.05
+DEMO-00429,2025-03-05,Router Wi-Fi,Redes,2,230.69,0.1
+DEMO-00430,2026-11-10,Parlante portátil,Audio,2,151.95,0.0
+DEMO-00431,2026-06-30,Disco SSD 1TB,Almacenamiento,1,312.54,0.15
+DEMO-00432,2026-10-21,Cargador USB-C,Accesorios,3,72.17,0.05
+DEMO-00433,2025-09-10,Monitor 24 pulgadas,Computación,1,754.85,0.0
+DEMO-00434,2025-08-01,Audífonos Bluetooth,Audio,2,209.63,0.05
+DEMO-00435,2026-07-28,Parlante portátil,Audio,4,162.33,0.0
+DEMO-00436,2025-05-05,Audífonos Bluetooth,Audio,2,211.45,0.05
+DEMO-00437,2025-05-30,Parlante portátil,Audio,1,149.73,0.15
+DEMO-00438,2025-12-21,Mouse inalámbrico,Accesorios,4,66.62,0.15
+DEMO-00439,2025-08-08,Disco SSD 1TB,Almacenamiento,1,321.98,0.1
+DEMO-00440,2025-10-06,Router Wi-Fi,Redes,1,234.26,0.1
+DEMO-00441,2025-09-06,Monitor 24 pulgadas,Computación,1,830.57,0.0
+DEMO-00442,2025-08-27,Cargador USB-C,Accesorios,1,73.96,0.15
+DEMO-00443,2025-04-13,Disco SSD 1TB,Almacenamiento,2,301.44,0.1
+DEMO-00444,2026-02-21,Teclado mecánico,Accesorios,2,190.96,0.05
+DEMO-00445,2026-10-29,Disco SSD 1TB,Almacenamiento,1,343.75,0.0
+DEMO-00446,2026-10-24,Audífonos Bluetooth,Audio,1,219.03,0.15
+DEMO-00447,2025-08-26,Tablet Android,Computación,2,921.77,0.0
+DEMO-00448,2026-03-04,Teclado mecánico,Accesorios,4,170.66,0.0
+DEMO-00449,2026-05-23,Webcam HD,Accesorios,1,124.78,0.0
+DEMO-00450,2025-01-10,Laptop Lenovo IdeaPad,Computación,1,2490.29,0.0
+DEMO-00451,2026-04-11,Audífonos Bluetooth,Audio,5,211.45,0.05
+DEMO-00452,2026-06-01,Teclado mecánico,Accesorios,2,171.15,0.0
+DEMO-00453,2025-06-16,Parlante portátil,Audio,3,158.68,0.15
+DEMO-00454,2025-01-15,Teclado mecánico,Accesorios,3,188.37,0.1
+DEMO-00455,2025-07-17,Cargador USB-C,Accesorios,1,79.27,0.05
+DEMO-00456,2026-06-12,Webcam HD,Accesorios,1,118.1,0.0
+DEMO-00457,2025-05-24,Teclado mecánico,Accesorios,2,192.55,0.0
+DEMO-00458,2026-01-28,Audífonos Bluetooth,Audio,1,218.53,0.0
+DEMO-00459,2026-08-20,Audífonos Bluetooth,Audio,2,193.58,0.15
+DEMO-00460,2025-08-30,Parlante portátil,Audio,1,145.53,0.0
+DEMO-00461,2026-02-20,Teclado mecánico,Accesorios,2,192.19,0.15
+DEMO-00462,2025-05-01,Audífonos Bluetooth,Audio,2,224.81,0.0
+DEMO-00463,2025-08-15,Tablet Android,Computación,1,837.82,0.0
+DEMO-00464,2026-09-13,Disco SSD 1TB,Almacenamiento,1,330.34,0.05
+DEMO-00465,2026-11-12,Memoria USB 64GB,Almacenamiento,3,39.59,0.15
+DEMO-00466,2025-03-25,Tablet Android,Computación,2,894.01,0.0
+DEMO-00467,2026-08-01,Mouse inalámbrico,Accesorios,1,68.42,0.1
+DEMO-00468,2026-08-10,Monitor 24 pulgadas,Computación,2,738.13,0.1
+DEMO-00469,2025-04-30,Disco SSD 1TB,Almacenamiento,2,331.11,0.05
+DEMO-00470,2026-06-07,Mouse inalámbrico,Accesorios,1,60.38,0.0
+DEMO-00471,2026-03-02,Memoria USB 64GB,Almacenamiento,2,35.31,0.05
+DEMO-00472,2025-11-12,Cargador USB-C,Accesorios,2,73.75,0.0
+DEMO-00473,2025-08-12,Router Wi-Fi,Redes,2,213.27,0.0
+DEMO-00474,2025-03-07,Router Wi-Fi,Redes,2,213.82,0.0
+DEMO-00475,2025-02-02,Disco SSD 1TB,Almacenamiento,1,303.62,0.0
+DEMO-00476,2026-10-24,Cargador USB-C,Accesorios,5,73.49,0.05
+DEMO-00477,2026-01-22,Disco SSD 1TB,Almacenamiento,1,329.36,0.15
+DEMO-00478,2025-05-17,Memoria USB 64GB,Almacenamiento,2,37.07,0.0
+DEMO-00479,2026-02-07,Memoria USB 64GB,Almacenamiento,2,39.39,0.0
+DEMO-00480,2025-01-24,Laptop Lenovo IdeaPad,Computación,5,2435.5,0.15
+DEMO-00481,2026-03-11,Memoria USB 64GB,Almacenamiento,2,39.97,0.0
+DEMO-00482,2025-12-21,Disco SSD 1TB,Almacenamiento,1,304.05,0.15
+DEMO-00483,2025-02-02,Mouse inalámbrico,Accesorios,3,64.16,0.0
+DEMO-00484,2025-07-31,Monitor 24 pulgadas,Computación,1,791.72,0.05
+DEMO-00485,2025-02-19,Tablet Android,Computación,1,825.1,0.05
+DEMO-00486,2026-07-07,Monitor 24 pulgadas,Computación,1,825.39,0.0
+DEMO-00487,2026-05-31,Teclado mecánico,Accesorios,5,172.34,0.15
+DEMO-00488,2025-11-23,Tablet Android,Computación,2,928.81,0.0
+DEMO-00489,2025-11-06,Monitor 24 pulgadas,Computación,3,840.61,0.1
+DEMO-00490,2026-02-28,Monitor 24 pulgadas,Computación,1,725.21,0.1
+DEMO-00491,2025-06-29,Router Wi-Fi,Redes,2,227.32,0.05
+DEMO-00492,2025-12-19,Laptop Lenovo IdeaPad,Computación,4,2517.17,0.1
+DEMO-00493,2026-03-03,Parlante portátil,Audio,1,150.04,0.0
+DEMO-00494,2026-04-30,Memoria USB 64GB,Almacenamiento,1,36.33,0.15
+DEMO-00495,2026-04-20,Teclado mecánico,Accesorios,4,181.8,0.05
+DEMO-00496,2026-06-27,Memoria USB 64GB,Almacenamiento,1,36.44,0.0
+DEMO-00497,2026-10-25,Parlante portátil,Audio,1,153.75,0.0
+DEMO-00498,2026-07-03,Mouse inalámbrico,Accesorios,2,61.78,0.0
+DEMO-00499,2026-09-12,Webcam HD,Accesorios,2,127.17,0.0
+DEMO-00500,2026-07-27,Tablet Android,Computación,1,848.55,0.0
+DEMO-00501,2025-01-16,Audífonos Bluetooth,Audio,1,199.58,0.15
+DEMO-00502,2026-05-06,Mouse inalámbrico,Accesorios,4,67.03,0.15
+DEMO-00503,2026-02-11,Monitor 24 pulgadas,Computación,4,786.5,0.0
+DEMO-00504,2026-04-23,Webcam HD,Accesorios,2,117.3,0.0
+DEMO-00505,2026-06-10,Parlante portátil,Audio,4,154.16,0.15
+DEMO-00506,2025-11-24,Disco SSD 1TB,Almacenamiento,4,313.38,0.05
+DEMO-00507,2026-07-31,Laptop Lenovo IdeaPad,Computación,3,2544.57,0.0
+DEMO-00508,2026-07-21,Audífonos Bluetooth,Audio,4,212.66,0.05
+DEMO-00509,2025-06-06,Audífonos Bluetooth,Audio,1,200.93,0.1
+DEMO-00510,2026-05-27,Monitor 24 pulgadas,Computación,2,835.34,0.0
+DEMO-00511,2026-05-16,Audífonos Bluetooth,Audio,5,214.76,0.05
+DEMO-00512,2025-06-22,Disco SSD 1TB,Almacenamiento,3,312.43,0.0
+DEMO-00513,2026-07-14,Router Wi-Fi,Redes,2,245.34,0.1
+DEMO-00514,2025-03-02,Cargador USB-C,Accesorios,2,79.07,0.0
+DEMO-00515,2025-02-19,Cargador USB-C,Accesorios,3,73.95,0.15
+DEMO-00516,2025-03-11,Monitor 24 pulgadas,Computación,2,718.74,0.1
+DEMO-00517,2026-01-18,Disco SSD 1TB,Almacenamiento,1,327.05,0.1
+DEMO-00518,2026-11-07,Disco SSD 1TB,Almacenamiento,2,294.74,0.1
+DEMO-00519,2025-01-13,Webcam HD,Accesorios,1,124.27,0.1
+DEMO-00520,2025-01-18,Audífonos Bluetooth,Audio,2,216.65,0.05
+DEMO-00521,2025-04-20,Teclado mecánico,Accesorios,4,180.7,0.0
+DEMO-00522,2026-09-27,Monitor 24 pulgadas,Computación,2,819.34,0.0
+DEMO-00523,2025-03-22,Webcam HD,Accesorios,1,118.2,0.1
+DEMO-00524,2025-08-20,Monitor 24 pulgadas,Computación,1,820.94,0.0
+DEMO-00525,2026-10-28,Cargador USB-C,Accesorios,3,70.12,0.05
+DEMO-00526,2026-07-20,Webcam HD,Accesorios,2,122.63,0.15
+DEMO-00527,2025-03-26,Teclado mecánico,Accesorios,2,178.1,0.0
+DEMO-00528,2025-04-08,Tablet Android,Computación,4,949.69,0.0
+DEMO-00529,2026-08-04,Monitor 24 pulgadas,Computación,2,723.41,0.0
+DEMO-00530,2025-10-15,Cargador USB-C,Accesorios,4,75.76,0.0
+DEMO-00531,2025-11-19,Teclado mecánico,Accesorios,1,171.57,0.0
+DEMO-00532,2026-02-12,Router Wi-Fi,Redes,4,222.61,0.1
+DEMO-00533,2026-08-04,Monitor 24 pulgadas,Computación,3,766.17,0.1
+DEMO-00534,2026-01-29,Parlante portátil,Audio,3,146.07,0.15
+DEMO-00535,2025-03-22,Router Wi-Fi,Redes,2,247.46,0.0
+DEMO-00536,2026-03-24,Mouse inalámbrico,Accesorios,1,60.59,0.1
+DEMO-00537,2026-09-02,Tablet Android,Computación,1,928.95,0.0
+DEMO-00538,2025-10-07,Cargador USB-C,Accesorios,3,74.41,0.0
+DEMO-00539,2026-07-21,Parlante portátil,Audio,4,153.31,0.15
+DEMO-00540,2026-11-08,Tablet Android,Computación,1,928.76,0.0
+DEMO-00541,2025-03-17,Monitor 24 pulgadas,Computación,1,736.85,0.15
+DEMO-00542,2025-06-07,Cargador USB-C,Accesorios,3,72.8,0.0
+DEMO-00543,2025-01-06,Mouse inalámbrico,Accesorios,4,64.43,0.0
+DEMO-00544,2025-05-16,Mouse inalámbrico,Accesorios,1,64.28,0.1
+DEMO-00545,2026-06-09,Memoria USB 64GB,Almacenamiento,1,35.12,0.0
+DEMO-00546,2025-04-06,Memoria USB 64GB,Almacenamiento,2,39.73,0.05
+DEMO-00547,2025-10-26,Laptop Lenovo IdeaPad,Computación,1,2559.43,0.15
+DEMO-00548,2025-09-06,Memoria USB 64GB,Almacenamiento,2,35.99,0.05
+DEMO-00549,2025-05-23,Teclado mecánico,Accesorios,1,173.33,0.0
+DEMO-00550,2025-06-21,Mouse inalámbrico,Accesorios,1,64.18,0.05
+DEMO-00551,2026-01-05,Mouse inalámbrico,Accesorios,1,62.36,0.15
+DEMO-00552,2026-09-01,Disco SSD 1TB,Almacenamiento,2,317.84,0.0
+DEMO-00553,2025-01-07,Audífonos Bluetooth,Audio,4,204.36,0.1
+DEMO-00554,2025-12-04,Webcam HD,Accesorios,1,118.67,0.15
+DEMO-00555,2025-05-20,Tablet Android,Computación,1,904.7,0.15
+DEMO-00556,2026-05-06,Monitor 24 pulgadas,Computación,1,837.98,0.0
+DEMO-00557,2026-10-11,Audífonos Bluetooth,Audio,2,212.55,0.0
+DEMO-00558,2026-01-21,Parlante portátil,Audio,1,162.09,0.0
+DEMO-00559,2026-08-01,Mouse inalámbrico,Accesorios,1,70.17,0.0
+DEMO-00560,2026-07-18,Cargador USB-C,Accesorios,1,77.73,0.15
+DEMO-00561,2026-03-25,Monitor 24 pulgadas,Computación,3,821.34,0.0
+DEMO-00562,2026-05-27,Webcam HD,Accesorios,1,116.21,0.0
+DEMO-00563,2025-06-07,Cargador USB-C,Accesorios,2,78.47,0.0
+DEMO-00564,2026-09-05,Disco SSD 1TB,Almacenamiento,2,314.92,0.1
+DEMO-00565,2026-03-05,Router Wi-Fi,Redes,2,240.7,0.0
+DEMO-00566,2026-07-04,Router Wi-Fi,Redes,2,245.25,0.0
+DEMO-00567,2026-11-05,Monitor 24 pulgadas,Computación,2,738.36,0.1
+DEMO-00568,2026-07-31,Laptop Lenovo IdeaPad,Computación,5,2519.57,0.05
+DEMO-00569,2026-03-17,Parlante portátil,Audio,1,145.05,0.0
+DEMO-00570,2026-06-16,Memoria USB 64GB,Almacenamiento,2,39.14,0.0
+DEMO-00571,2026-01-19,Disco SSD 1TB,Almacenamiento,1,333.94,0.1
+DEMO-00572,2026-05-28,Router Wi-Fi,Redes,1,248.32,0.05
+DEMO-00573,2025-10-30,Mouse inalámbrico,Accesorios,1,69.8,0.0
+DEMO-00574,2025-05-26,Router Wi-Fi,Redes,1,224.22,0.0
+DEMO-00575,2026-05-10,Memoria USB 64GB,Almacenamiento,1,35.55,0.15
+DEMO-00576,2026-04-09,Router Wi-Fi,Redes,1,222.65,0.15
+DEMO-00577,2025-01-24,Mouse inalámbrico,Accesorios,3,66.54,0.15
+DEMO-00578,2025-09-07,Teclado mecánico,Accesorios,2,181.5,0.0
+DEMO-00579,2026-03-13,Memoria USB 64GB,Almacenamiento,4,36.37,0.05
+DEMO-00580,2025-07-08,Cargador USB-C,Accesorios,1,76.89,0.05
+DEMO-00581,2026-09-21,Laptop Lenovo IdeaPad,Computación,4,2430.23,0.05
+DEMO-00582,2025-01-05,Webcam HD,Accesorios,2,114.35,0.15
+DEMO-00583,2026-08-15,Mouse inalámbrico,Accesorios,1,68.87,0.0
+DEMO-00584,2025-11-30,Parlante portátil,Audio,1,145.43,0.15
+DEMO-00585,2026-06-25,Disco SSD 1TB,Almacenamiento,5,310.45,0.05
+DEMO-00586,2026-02-06,Tablet Android,Computación,2,868.34,0.05
+DEMO-00587,2025-06-26,Tablet Android,Computación,3,919.33,0.0
+DEMO-00588,2026-08-28,Tablet Android,Computación,1,837.87,0.0
+DEMO-00589,2025-11-09,Monitor 24 pulgadas,Computación,1,764.19,0.0
+DEMO-00590,2026-02-02,Memoria USB 64GB,Almacenamiento,1,35.8,0.05
+DEMO-00591,2025-07-10,Webcam HD,Accesorios,2,120.72,0.15
+DEMO-00592,2026-07-23,Teclado mecánico,Accesorios,1,173.92,0.0
+DEMO-00593,2026-04-07,Parlante portátil,Audio,2,164.06,0.0
+DEMO-00594,2025-05-20,Disco SSD 1TB,Almacenamiento,1,314.06,0.1
+DEMO-00595,2026-10-31,Memoria USB 64GB,Almacenamiento,2,39.12,0.05
+DEMO-00596,2026-03-31,Router Wi-Fi,Redes,2,214.64,0.0
+DEMO-00597,2025-10-27,Monitor 24 pulgadas,Computación,1,745.66,0.0
+DEMO-00598,2026-04-14,Teclado mecánico,Accesorios,2,187.85,0.05
+DEMO-00599,2026-06-08,Memoria USB 64GB,Almacenamiento,1,35.65,0.1
+DEMO-00600,2026-07-10,Parlante portátil,Audio,3,143.63,0.15
