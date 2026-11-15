@@ -165,7 +165,7 @@ En la pestaña **Actions**, abre la ejecución y confirma que los pasos de prueb
 5. En la configuración avanzada de la aplicación, agrega el secreto:
 
 ```toml
-DATABASE_URL = "postgresql://USUARIO:CONTRASENA@HOST:5432/BASE?sslmode=require"
+DATABASE_URL = "postgresql://neondb_owner:npg_5Wl0OVMSEYTX@ep-calm-sound-be4rr0al-pooler.c-9.us-east-2.aws.neon.tech/neondb?sslmode=require&channel_binding=require"
 ```
 
 6. Despliega y espera a que finalice la instalación.
@@ -197,16 +197,4 @@ La carga usa `sale_id` como clave primaria y hace *upsert*: ejecutar el pipeline
 - El proyecto no incorpora orquestadores complejos ni infraestructura de AWS.
 - Los resultados son demostrativos y dependen del contenido del CSV y de la base cargada.
 
-## 12. Evidencias y enlaces de entrega
 
-Completa solo después de publicar y verificar cada recurso:
-
-- Repositorio GitHub: `[PEGAR URL PÚBLICA]`
-- Dashboard Streamlit: `[PEGAR URL PÚBLICA]`
-- Video de demostración (máximo 5 min): `[PEGAR URL PÚBLICA]`
-- Artículo individual Medium/Dev.to/Hashnode: `[PEGAR URL PUBLICADA]`
-- Ejecución exitosa de GitHub Actions: `[PEGAR URL DE LA EJECUCIÓN]`
-=======
-# sales-data-pipeline
-Sistema automatizado de procesamiento y análisis de ventas con Python y PostgreSQL.
->>>>>>> 8bfae132f89d1eb6b7c11f89b7792c5a2a7efa7c
